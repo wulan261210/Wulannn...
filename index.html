@@ -7,7 +7,13 @@
     
 <style>
 *{
-    .shooting-star{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.shooting-star{
     position:fixed;
     top:-50px;
     width:2px;
@@ -42,12 +48,7 @@
         transform:translate(-600px,600px) rotate(45deg);
         opacity:0;
     }
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:'Segoe UI',sans-serif;
 }
-
 body{
     background:linear-gradient(to bottom,#01030d,#03152e,#08244d,#0d3b7a);
     color:white;
@@ -173,7 +174,8 @@ footer{
 <div class="shooting-star"></div>
 <div class="shooting-star"></div>
 <div class="shooting-star"></div>
-<div class="star" style="top:45%;left:60%;"></div>
+    <div class="stars">
+    <div class="star" style="top:45%;left:60%;"></div>
     <div class="star" style="top:50%;left:80%;"></div>
 
     <div class="star" style="top:55%;left:10%;"></div>
