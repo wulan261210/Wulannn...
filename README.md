@@ -157,7 +157,7 @@ footer{
 
 <section id="tentang">
     <div class="card">
-        <h2>about me</h2>
+        <h2>terserah</h2>
         <p>
             Haloo.. 
             namaku wulan permata sari ini web ke dua yg sa buat sekian. Baca dan amati
