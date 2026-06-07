@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Profil Pribadi</title>
+<title>wulannn</title>
 
 <style>
 *{
@@ -157,17 +157,15 @@ footer{
 
 <section id="tentang">
     <div class="card">
-        <h2>✨ Tentang Saya</h2>
+        <h2>about me</h2>
         <p>
-            Halo! Saya Wulan Permata Sari. Saya senang belajar hal-hal baru,
-            terutama teknologi, desain, dan pengembangan web. Saya percaya
-            bahwa setiap hari adalah kesempatan untuk berkembang menjadi
-            pribadi yang lebih baik.
+            Haloo.. 
+            namaku wulan permata sari ini web ke dua yg sa buat sekian. Baca dan amati
         </p>
     </div>
 
     <div class="card">
-        <h2>🚀 Kemampuan</h2>
+        <h2> Kemampuan</h2>
 
         <div class="skills">
             <div class="skill">HTML</div>
@@ -180,17 +178,16 @@ footer{
     </div>
 
     <div class="card">
-        <h2>🎯 Cita-cita</h2>
+        <h2> Cita-cita</h2>
         <p>
-            Menjadi pribadi yang bermanfaat, berprestasi, dan mampu
-            memberikan dampak positif bagi lingkungan sekitar.
+           Banggakan orang tua
         </p>
     </div>
 
     <div class="card">
-        <h2>📬 Kontak</h2>
-        <p>Email: emailkamu@example.com</p>
-        <p>Instagram: @usernamekamu</p>
+        <h2>Kontak</h2>
+        <p>Email: wulanpermatasari261210@gmail.com</p>
+        <p>Instagram: @all.aboutwul4n</p>
     </div>
 </section>
 
